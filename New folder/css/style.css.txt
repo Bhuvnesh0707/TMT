@@ -1,0 +1,68 @@
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --accent: #0a6cf1;
+}
+
+.dark {
+  --bg: #0f172a;
+  --text: #f8fafc;
+  --accent: #38bdf8;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background: var(--accent);
+  color: white;
+}
+
+nav a, nav button {
+  margin-left: 15px;
+  color: white;
+  text-decoration: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.hero {
+  padding: 5rem 2rem;
+  text-align: center;
+}
+
+.btn {
+  background: var(--accent);
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+  gap: 20px;
+  padding: 2rem;
+}
+
+.content {
+  padding: 2rem;
+}
+
+.services li {
+  margin: 10px 0;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Services | TravMadsTours</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1>TravMadsTours</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="content">
+  <h2>Our Services</h2>
+  <ul class="services">
+    <li>🌍 Luxury International Tours</li>
+    <li>🏖️ Customized Holiday Packages</li>
+    <li>🚗 Private Guided Tours</li>
+    <li>🏨 Hotel & Resort Bookings</li>
+    <li>✈️ Flights & Travel Assistance</li>
+  </ul>
+</section>
+
+<footer>
+  <p>© 2025 TravMadsTours</p>
+</footer>
+</body>
+</html>

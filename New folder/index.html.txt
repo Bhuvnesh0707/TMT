@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TravMadsTours | Exclusive Travel Experiences</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script defer src="js/script.js"></script>
+</head>
+<body>
+  <header>
+    <h1>TravMadsTours</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+      <button id="themeToggle">🌙</button>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Exclusive journeys crafted with care</h2>
+    <p>Designed for comfort, elegance, and unforgettable memories.</p>
+    <a href="services.html" class="btn">Explore Tours</a>
+  </section>
+
+  <section class="features">
+    <div>
+      <h3>Luxury Travel</h3>
+      <p>Handpicked destinations with premium accommodations.</p>
+    </div>
+    <div>
+      <h3>Personalized Planning</h3>
+      <p>Tailor-made itineraries built around your desires.</p>
+    </div>
+    <div>
+      <h3>Trusted Experts</h3>
+      <p>Experienced travel designers ensuring seamless journeys.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 TravMadsTours. All rights reserved.</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | TravMadsTours</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1>TravMadsTours</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="content">
+  <h2>About Us</h2>
+  <p>
+    TravMadsTours is a premium travel company dedicated to creating
+    unforgettable journeys across the globe. We believe travel should
+    be effortless, immersive, and elegant.
+  </p>
+  <p>
+    Our expert planners craft exclusive experiences designed for comfort,
+    cultural discovery, and lasting memories.
+  </p>
+</section>
+
+<footer>
+  <p>© 2025 TravMadsTours</p>
+</footer>
+</body>
+</html>
