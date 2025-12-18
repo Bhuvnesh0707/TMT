@@ -35,8 +35,9 @@ nav a, nav button {
 }
 
 .hero {
-  padding: 5rem 2rem;
-  text-align: center;
+  background-image: url("../assets/TMT.png");
+  background-size: cover;
+  background-position: center;
 }
 
 .btn {
@@ -66,3 +67,4 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
