@@ -39,8 +39,8 @@ nav a, nav button {
   background-size: contain;       /* Scale image fully inside container */
   background-position: center;    /* Center it */
   background-repeat: no-repeat;   /* Prevent repeating */
-  min-height: 30vh;              /* 30% of viewport height, adjust as needed */
-  width: 100%;
+  min-height: 22vh;              /* 30% of viewport height, adjust as needed */
+  width: 80%;
 }
 
 .btn {
@@ -70,6 +70,7 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
 
 
 
