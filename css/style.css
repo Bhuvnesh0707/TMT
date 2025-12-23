@@ -11,10 +11,10 @@
 }
 
 body {
-  margin: 0;
+  margin: 1;
   font-family: Arial, sans-serif;
-  background: var(--bg);
-  color: var(--text);
+  background: Blue(--bg);
+  color: Blue(--text);
 }
 
 header {
@@ -22,11 +22,11 @@ header {
   justify-content: space-between;
   padding: 1rem 2rem;
   background: var(--accent);
-  color: white;
+  color: red;
 }
 
 nav a, nav button {
-  margin-left: 15px;
+  margin-left: 50px;
   color: white;
   text-decoration: none;
   background: none;
@@ -52,7 +52,7 @@ nav a, nav button {
 }
 
 .features {
-  display: grid;
+  display: centre;
   grid-template-columns: repeat(auto-fit, minmax(100px,2fr));
   gap: 10px;
   padding: 1rem;
@@ -70,6 +70,7 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
 
 
 
