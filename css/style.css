@@ -39,8 +39,8 @@ nav a, nav button {
   background-size: contain;       /* Scale image fully inside container */
   background-position: center;    /* Center it */
   background-repeat: no-repeat;   /* Prevent repeating */
-  min-height: 22vh;              /* 30% of viewport height, adjust as needed */
-  width: 80%;
+  min-height: 05vh;              /* 10% of viewport height, adjust as needed */
+  width: 50%;
 }
 
 .btn {
@@ -53,9 +53,9 @@ nav a, nav button {
 
 .features {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
-  gap: 20px;
-  padding: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(100px,2fr));
+  gap: 10px;
+  padding: 1rem;
 }
 
 .content {
@@ -63,13 +63,14 @@ nav a, nav button {
 }
 
 .services li {
-  margin: 10px 0;
+  margin: 5px 0;
 }
 
 footer {
   text-align: center;
   padding: 1rem;
 }
+
 
 
 
